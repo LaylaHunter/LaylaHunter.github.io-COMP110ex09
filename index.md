@@ -5,7 +5,7 @@ layout: default
 
 # COMP110 Data Analysis Project
 
-<img src="<COMP110ex09>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500">
+<img src="LaylaHunter.github.io-COMP110ex09/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500">
 
 ## Summary of Project 
 
@@ -14,16 +14,16 @@ This project explored whether prior programming experience impacts a student’s
  After organizing the data, we focused on the relationship between 'prior_exp' and 'understanding'. To visualize this, We created a scatter plot, box plot, and line plot. 
 
 
-<img src="<COMP110ex09>/static/imgs/Plot1.png"  width="500">
+<img src="LaylaHunter.github.io-COMP110ex09/static/imgs/Plot1.png"  width="500">
 
 This plot shows individual students understanding levels across different experience categories.
 
-<img src="<COMP110ex09>/static/imgs/Plot2.png" width="500">
+<img src="LaylaHunter.github.io-COMP110ex09/static/imgs/Plot2.png" width="500">
 
 This plot shows the average understanding for each level of prior experience.
 
 
-<img src="<COMP110ex09>/static/imgs/Plot3.png" width="500">
+<img src="LaylaHunter.github.io-COMP110ex09/static/imgs/Plot3.png" width="500">
 
 This plot compares the distribution of understanding for each experience group. It helps show the median and spread of scores.
 
