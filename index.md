@@ -14,7 +14,7 @@ This project explored whether prior programming experience impacts a student’s
  After organizing the data, we focused on the relationship between 'prior_exp' and 'understanding'. To visualize this, We created a scatter plot, box plot, and line plot. 
 
 
-<img src="/LaylaHunter.github.io-COMP110ex09/static/imgs/plot1.png" width="500"/>>
+<img src="/LaylaHunter.github.io-COMP110ex09/static/imgs/plot1.png" width="500"/>
 
 This plot shows individual students understanding levels across different experience categories.
 
