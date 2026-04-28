@@ -5,7 +5,7 @@ layout: default
 
 # COMP110 Data Analysis Project
 
-img src="<COMP110ex09>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"
+<img src="<COMP110ex09>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500">
 
 ## Summary of Project 
 
