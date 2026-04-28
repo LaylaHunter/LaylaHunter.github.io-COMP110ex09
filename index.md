@@ -22,7 +22,7 @@ This plot shows individual students understanding levels across different experi
 
 This plot shows the average understanding for each level of prior experience.
 
-<img src="/LaylaHunter.github.io-COMP110ex09/static/imgs/plot3.png" width="500"/>
+<img src="/LaylaHunter.github.io-COMP110ex09/static/imgs/plot 3.png" width="500"/>
 
 This plot compares the distribution of understanding for each experience group. It helps show the median and spread of scores.
 
